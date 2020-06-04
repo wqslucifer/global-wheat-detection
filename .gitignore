@@ -1,0 +1,9 @@
+**/result/
+**/save/
+**/*.pth
+**/logs
+**/.ipynb_checkpoints
+**/__pycache__
+**/monitor.sh
+**/check.sh
+**/*.ipynb
